@@ -51,5 +51,6 @@ BirdsEye            |
 Green And Blacks    | By definition vegan products contain no ingredients derived from animals within the recipe and this still remains true for Green & Black’s dark chocolate. However, as our dark chocolate is made on the same production line as our milk chocolate there is some risk of cross contact
 Innocent Drinks     | Because of the risk of contamination from the shellac in wax, they are not comfortable with saying products are vegan, some people may be fine with this
 Morrisons           |
+Lidl                | "We are not able to provide you with a full list of Lidl products that are suitable for a vegan diet. "
 
 More will be added as I find them. If you know of any, please let me know if the comments below.
